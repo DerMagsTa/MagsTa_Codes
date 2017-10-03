@@ -17,7 +17,7 @@ let verlierer = [];
 
 //Lädt die Lieder aus der Spotify API
 function preload() {
-  data = loadJSON("http://127.0.0.1:3000/Sketches/05_Lieblingslied/lieder.json");
+  data = loadJSON("lieder.json");
 }
 
 //alles Initialisieren und Elemente laden
