@@ -1,0 +1,22 @@
+
+h3 {
+  margin-left: 100px;
+}
+
+.programm-card.mdl-card {
+  width: 320px;
+  height: 441px;
+  margin: auto;
+}
+.programm-card > .mdl-card__title {
+  color: #fff;
+  background-size: 72.5%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #CDDC39;
+}
+
+.programm-wrap {
+  max-width: 1200px;
+  margin: auto;
+}

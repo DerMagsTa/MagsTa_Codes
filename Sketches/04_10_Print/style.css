@@ -1,0 +1,14 @@
+.wrap {
+  max-width: 900px;
+  margin: auto;
+}
+
+#programm-area {
+  display: flex;
+}
+
+canvas {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

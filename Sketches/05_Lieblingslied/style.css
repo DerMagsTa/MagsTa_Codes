@@ -1,0 +1,26 @@
+.wrap {
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+
+.programm-card.mdl-card {
+  width: 480px;
+  height: auto;
+  margin: auto;
+  margin-top: 20px;
+}
+.mdl-card__title {
+  color: #fff;
+  text-shadow: 2px 2px 2px #000;
+  height: 320px;
+  background-size: 72.5%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #CDDC39;
+}
+
+.mdl-card__title-text {
+  font-weight: bolder;
+}
